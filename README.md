@@ -1,2 +1,2 @@
 # Garett_Portfolio
-data science portfolio
+Starting to build a python portfolio
